@@ -24,9 +24,8 @@
 <img height="250px" align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 - 🌱 Aspiring MERN Developer
-- 👯 Collaborate on  <a href="https://www.linkedin.com/in/rajrathore1313/" /> Linkedin </a>   
+- 👯 Collaborate on  <a href="https://www.linkedin.com/in/nilesh-kumar-pandey/" /> Linkedin </a>   
 - 🤔 I'm looking for help with developing AI skills ..
-- 💬 Project presentation is <a href="https://nileshkk9.github.io/" />HERE (PORTFOLIO) </a> 
 - 📫 you can reach me at raj1rathore.1@gmail.com
 - 😄 Fun fact: ⚡ 20% of all the oxygen you breathe is used by your brain.
 ** <p>Working Hours...... </p>
@@ -57,10 +56,6 @@
 
 
 
-<h3 align='center'> 🔍 Located here </h3>
-<div align='center' mix-blend-mode= 'soft-light' > <a href="https://www.google.com/maps/place/Kota,+Rajasthan/@25.1733863,75.7769083,12z/data=!3m1!4b1!4m5!3m4!1s0x396f9b30c41bb44d:0x5f5c103200045588!8m2!3d25.2138156!4d75.8647527" target="_blank"><img src="https://www.tourism.rajasthan.gov.in/content/dam/rajasthan-tourism/english/city/map/13.png" alt="KOTA"  width="100" height="60" /></a>
-</div>
-
 
 
 <h3 align='center'> 🔍 Available here </h3>
@@ -89,15 +84,6 @@
 	
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-	
-
-<br/>
-<br/>
-
- <a href="https://github.com/nileshkk9/github-readme-activity-graph"><img alt="Nilesh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nileshkk9&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-	
 	
 	
 <br/>
