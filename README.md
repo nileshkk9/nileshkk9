@@ -26,7 +26,7 @@
 - 🌱 Aspiring MERN Developer
 - 👯 Collaborate on  <a href="https://www.linkedin.com/in/nilesh-kumar-pandey/" /> Linkedin </a>   
 - 🤔 I'm looking for help with developing AI skills ..
-- 📫 you can reach me at raj1rathore.1@gmail.com
+- 📫 you can reach me at nileshkk9@gmail.com
 - 😄 Fun fact: ⚡ 20% of all the oxygen you breathe is used by your brain.
 ** <p>Working Hours...... </p>
 * 1200+ Hours Practical Coding
@@ -61,11 +61,11 @@
 <h3 align='center'> 🔍 Available here </h3>
 <div align='center'>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/rajrathore1313/)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/nilesh-kumar-pandey/)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://nileshkk9.github.io/) 
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/nileshkk9)
-  [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/rajrathore/)
-  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/theromeo_1313)
+  [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/nileshkk9/)
+  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)]()
 </div>
 <!-- ***************************************************** -->
 
