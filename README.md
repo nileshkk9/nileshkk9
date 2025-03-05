@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkk9&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkk9" /> </p>
- <img src="https://img.freepik.com/free-vector/back-view-landscape-with-businessman-long-way-ahead-business-person-new-career-opportunities-straight-road-bright-future-flat-vector-illustration-motivation-challenge-goal-concept_74855-24324.jpg?w=2000" align="center" height="300" width="1000" >
+ <img src="https://i.imgur.com/oTI2wPc.gif" align="center" height="600" width="1000" >
 
 
 <h2 align="center">
@@ -13,28 +13,40 @@
 
 
 
-
-
-
 <p align="left">
 
 <h2 align="center"> :card_file_box: About Me</h2>
-<h4 align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
+<h4 align='center'>🚀 Full-Stack Developer with a passion for building scalable and efficient solutions.  
+</h4>
 
-<img height="250px" align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-- 🌱 Aspiring MERN Developer
-- 👯 Collaborate on  <a href="https://www.linkedin.com/in/nilesh-kumar-pandey/" /> Linkedin </a>   
-- 🤔 I'm looking for help with developing AI skills ..
-- 📫 you can reach me at nileshkk9@gmail.com
-- 😄 Fun fact: ⚡ 20% of all the oxygen you breathe is used by your brain.
-** <p>Working Hours...... </p>
-* 1200+ Hours Practical Coding
-* 100+ Hours Soft Skill Development
-* 50+ Mini Projects
-* 300 Hours Data Structures & Algorithms
-* 100+ Hours Math & Logic
-* 5+ Projects
+🚀 **Full-Stack Developer | Innovator | Problem Solver**  
+🔹 Passionate about building scalable solutions with **JavaScript, Python, and Java**  
+🔹 Enthusiastic about **Cloud, AI, and Large Language Models (LLMs)**  
+
+## 💡 Highlights of My Journey
+
+- 🏗 **Built a Custom Language Server** at Zinier, improving solution developers’ efficiency by **45%** and reducing bug resolution time by **40%**.  
+- 🗺️ **Led a Custom Map UI & Routing Service**, slashing Google Maps dependency and achieving **60-70% cost savings**.  
+- 🤖 **Developed a Retrieval-Augmented Generation (RAG) App** using **FastAPI, LangChain, and OpenSearch** for production use.  
+- 🚀 **Optimized Bulk Dispatch Processes** with AWS SQS, preventing server crashes and increasing batch task dispatch speed by **40%**.  
+- 🏆 **Outstanding Contribution Award** winner at Zinier for impactful projects!  
+
+## 🛠 Tech Stack  
+💻 **Languages:** JavaScript, TypeScript, Python, Java  
+🖥 **Frontend:** React.js, Next.js, HTML, CSS  
+🔧 **Backend:** Node.js, NestJS, Express.js, FastAPI  
+☁️ **Databases & Cloud:** MySQL, MongoDB, AWS, GCP  
+📊 **Monitoring:** Grafana, Loki, Tempo  
+🐳 **DevOps:** Docker, Git  
+
+## 📚 Certifications  
+- 🎓 **Oracle Certified Professional, Java SE 8**  
+- ☁️ **Cloud Computing (NPTEL)**  
+
+📩 Let's connect:  
+[🔗 LinkedIn](https://www.linkedin.com/in/nilesh-kumar-pandey/) | [💻 GitHub](https://github.com/nileshkk9) | [📝 LeetCode](https://leetcode.com/nileshkk9/) | [📁 Resume](https://docs.google.com/presentation/d/1YKwFhz0D3vjeXoQWZcSnIzBpimlsj5LMCxHTuXx3veA/edit?usp=sharing)
+
    <br>
 </p>
 
@@ -71,17 +83,7 @@
 
  <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
- <h2> 📊 Github Stats ....</h2>
-<p align="center">
- 
-<a href="http://www.github.com/nileshkk9"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=nileshkk9&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="nileshkk9's GitHub stats"/></a>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nileshkk9&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nileshkk9&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nileshkk9&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nileshkk9&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nileshkk9&theme=solarized_dark&utcOffset=8">
-	
+
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 	
